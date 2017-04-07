@@ -17,6 +17,8 @@ Note on the github version
   - The "H" Key will initiate the Hold
   - The "P" Key will pause/play your current game
   - The "N" key while paused or after a game will restart a new game
+  - Pressing the "Q" key while playing will queue up a straight piece as the next Tetrimino off screen
+    - This cheat code was fun while debugging but also allowed me to get much higher scores
 
 # Audio Controls
   - The "M" key will mute/unmute the audio playback
