@@ -6,6 +6,13 @@ Note on the github version
 
   - In my original project, the audio files that played by default were the Tetris theme, with an alternate audio of Viva la Vida by Coldplay. Because I do not own the rights to either song, I have replaced the audio files with white noise. To get your own audio, replace "AudioOne.wav" and "AudioTwo.wav" with wahtever you want.
 
+# A note on the makefile
+
+  - I have now included a makefile that will run in Linux. 
+  - "make clean" will remove all java class files
+  - "make run" will build and run the java project
+  - "make start" will run the project without rebuilding
+
 # How to Play
 
   - The Tetris-like game will start when the TetrixBoard.java class is run.
