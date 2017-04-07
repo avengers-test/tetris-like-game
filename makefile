@@ -2,7 +2,7 @@ main = Tetris
 
 # Directories
 SRCDIR = src
-OBJDIR = build
+OBJDIR = bin
 
 JFLAGS = -g -d $(OBJDIR)/
 JC = javac
